@@ -5,3 +5,6 @@
 **/.env.prod
 
 private-data
+
+private/*
+!private/README.md
